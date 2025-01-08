@@ -404,7 +404,7 @@ h1 span {
   opacity:0.7;
 }
 
-@media screen and (max-width: 499.98px) {
+@media screen and (max-width: 499.99px) {
   .clearfix > img:first-child {
     left: 0em;
     top: 7.5em;
@@ -412,7 +412,7 @@ h1 span {
     }
 }
 
-@media screen and (min-width: 500px) and (max-width: 699.98px) {
+@media screen and (min-width: 500px) and (max-width: 699.99px) {
   .clearfix > img:first-child {
     left: 0em;
     top: 8.6em;
@@ -460,7 +460,7 @@ section > h2 {
   margin-right: -0.44em
 }
 
-@media screen and (max-width: 699.98px) {
+@media screen and (max-width: 699.99px) {
   .fa-regular.fa-square-caret-up,
   .fa-regular.fa-square-plus,
   .fa-regular.fa-calendar {
@@ -483,7 +483,7 @@ section > h2 {
   top: 0.5em;
 }
 
-@media screen and (max-width: 699.98px) {
+@media screen and (max-width: 699.99px) {
   .fa-regular.fa-square-plus  {
     top: auto;
     bottom: 5.6em
@@ -494,7 +494,7 @@ section > h2 {
   top: 3em
 }
 
-@media screen and (max-width: 699.98px) {
+@media screen and (max-width: 699.99px) {
   .fa-regular.fa-calendar  {
     top: auto;
     bottom: 3em
